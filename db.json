@@ -1,0 +1,30 @@
+{
+    "fotos": [
+      {
+        "imagem": "https://i.postimg.cc/8kWqGypy/Whats-App-Image-2025-07-31-at-09-46-28.jpg",
+        "legenda": "Bancos",
+        "data": ""
+      },
+      {
+        "imagem": "https://i.postimg.cc/yNbw1t3G/Whats-App-Image-2025-07-31-at-09-46-28-2.jpg",
+        "legenda": "Biblioteca",
+        "data": "31-07-2025"
+      },
+       {
+        "imagem": "https://i.postimg.cc/LXgGnDz8/Whats-App-Image-2025-07-31-at-09-46-29-1.jpg",
+        "legenda": "Refeitorio",
+        "data": "31-07-2025"
+      },
+      {
+        "imagem": "https://i.postimg.cc/FzjqxKCt/Whats-App-Image-2025-07-31-at-09-46-29-2.jpg",
+        "legenda": "Quadra",
+        "data": "31-07-2025"
+    },
+     {
+        "imagem": "https://i.postimg.cc/L5dwfPTB/Whats-App-Image-2025-07-31-at-09-46-29-3.jpg",
+        "legenda": "Portaria",
+        "data": "31-07-2025"
+    }
+    ]
+}
+   
